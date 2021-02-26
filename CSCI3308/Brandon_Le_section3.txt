@@ -1,0 +1,20 @@
+Ofbao@DESKTOP-CQAR0LP MINGW64 ~/BrandonLe_section013_Labs (master)
+$ git add .
+warning: LF will be replaced by CRLF in test.txt.
+The file will have its original line endings in your working directory
+
+Ofbao@DESKTOP-CQAR0LP MINGW64 ~/BrandonLe_section013_Labs (master)
+$ git commit -m "Practice commit for lab"
+[master (root-commit) 1d15f9b] Practice commit for lab
+ 1 file changed, 2 insertions(+)
+ create mode 100644 test.txt
+
+Ofbao@DESKTOP-CQAR0LP MINGW64 ~/BrandonLe_section013_Labs (master)
+$ git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 246 bytes | 246.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/CSCI-3308-CU-Boulder/BrandonLe_section013_Labs.git
+ * [new branch]      master -> master
+
